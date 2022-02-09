@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 2.5rem;  
+  margin-top: 50px;
+}
+
+.left-section{
+width:671px;
+height: 643px;
+}
+
+.right-section{
+  width:671px;
+  height: 643px;
+  background-color:#ffffff;
+  border: 1px solid #E0E0E0;
+  border-radius: 4px;
+}
+
+.rectangle-first{
+  display: flex;
+  gap: 40px;
+}
+
+.flex-div{
+  width: 315px;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  border: 1px solid #E0E0E0;
+}
+
+#text-network{
+  margin: 4px 0px 5px 10px;
+  font-size: 0.9rem;
+}
+
+.link-network{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid #E0E0E0;
+  padding-top: 1.5rem;
+}
+
+.btnnetwork{
+  width: 33px;
+  height: 33px;
+  border: 1px solid #9E9E9E;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.btnnetwork:hover {
+  background-color: #FFF3E0;
+  border: 1px solid #EF9F2E;
+}
+
+#data-publi{
+  width: 315px;
+  height: 110px;
+  background-color: #FFFFFF;
+}
+
+#gray{
+  background-color: #DDDDDD;
+  cursor: default;
+  border: 1px solid #9E9E9E;
+}
+
+.flex-hour{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-top: 1px solid #E0E0E0;
+  padding-top: 1rem;
+}
+
+#text-upload-rectangle{
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+#text-post-container{
+  width: 671px;
+  height: 214px;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+}
+
+.style-btn{
+  border: none;
+}
+
+
+input[type="date"]{
+  width: 124px;
+  height: 42px;
+  border: 1px solid #949494;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;  
+}
+
+input[type="time"]{
+  width: 124px;
+  height: 42px;
+  border: 1px solid #949494;
+  outline: none;
+  cursor: pointer;
+}
+
+
+#text-post{
+  margin: 4px 0px 5px 10px;
+  font-size: 0.9rem;
+}
+
+#description{  
+  
+  width: 639px;
+  height: 146px;
+  margin: 12px 0px 0px 15px;
+  outline: none;
+  border: 1px solid #949494;
+  border-radius: 4px;
+}
+
+#line{
+  border-top: 1px solid #E0E0E0;
+}
+
+#upload-container{
+  width: 671px;
+  height: 239px;
+  background-color: #FFFFFF;
+  border: 1px solid #E0E0E0;
+  border-radius: 4px;
+}
+
+#upload{
+  width: 640px;
+  height: 178px;
+  margin: 9px 0px 0px 15px;
+  border: 1px dashed #BDBDBD;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#search-img{
+  width: 181px;
+  height: 36px;
+  background: #FFFFFF;
+  border: 1px solid #2F80ED;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  outline: none;
+  color: #2F80ED;
+}
+
+#post-preview{
+  margin-top: 65px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #828282;
+}
+
+#post-preview img{
+  margin-top: 20px;
+  width: 302px;
+  height: 370px;
+}
+
+footer{
+  margin: auto;
+  width: 100%;
+  height: 67px;
+  bottom: 0;
+  position: fixed;
+  background-color: #FFFFFF;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+
+#cancel{
+  width: 90px;
+  height: 27px;
+  outline: none;
+  border: none;
+  background-color: #FFFFFF;
+  color: #2F80ED;
+  cursor: pointer;
+  margin-right: 16px;
+  font-size: 1rem;
+}
+
+#sketch-save{
+  width: 184px;
+  height: 45px;
+  padding: 8px 12px 10px 12px;
+  margin-right: 16px;
+  background: #FFFFFF;
+  border: 1px solid #2F80ED;
+  color: #2F80ED;
+  box-sizing: border-box;
+  border-radius: 4px;  
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+#toschedule{
+  width: 184px;
+  height: 45px;
+  padding: 8px 12px 10px 12px;
+  margin-right: 52px;
+  background: #2F80ED;
+  border: none;
+  border-radius: 4px; 
+  cursor: pointer;
+  outline: none;
+  color: #FFFFFF;
+  font-size: 1rem;
+}
