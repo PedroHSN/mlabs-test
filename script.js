@@ -16,7 +16,7 @@ function show(){
   console.log("tudo certo por aqui");
 }
 function schedule(){
-  window.location.assign("../pages/post.html");
+  window.location.assign("./pages/post.html");
 }
 function showList(){
   window.location.assign("../pages/agendado.html");
