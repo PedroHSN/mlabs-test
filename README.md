@@ -28,7 +28,7 @@ $ cd mlabs-test
 
 ### **Considerações Finais**
 
-Minhas considerações finais para o teste, achei bem proveitoso por mais que eu não tenha conseguido realizar todos os requisitos. Usei o teste como forma de estudo e estou animado para realizar essas impletações que faltaram apenas como forma de estudo. Me considero Júnior.
+Minhas considerações finais para o teste, achei bem proveitoso por mais que eu não tenha conseguido realizar todos os requisitos. De certa forma serviu como estudo, pesquisei bastante coisa para aplicar no teste e agora sem prazo vou finalizar as implementações que ficaram faltando, apenas como forma de estudo.
 
 ## Autor
 Feito por Pedro Henrique.
