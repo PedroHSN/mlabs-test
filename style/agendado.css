@@ -1,0 +1,41 @@
+.schedule-containe{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+#align{
+  margin-left: 42px;
+}
+
+table{
+  border: 1px solid #BDBDBD;
+  margin: 45px;
+}
+
+#head{
+  background-color: #FFFFFF;
+}
+
+th{
+  padding: 12px;
+}
+
+td{
+  background-color: #F2F2F2;
+  padding: 12px;
+}
+a{
+  text-decoration: none;
+}
+.preview{
+  font-size: 14px;
+  line-height: 21px;
+  text-decoration-line: underline;
+  color: #1661F3;
+}
+
+.white td{
+  background-color: #FFFFFF;
+}
