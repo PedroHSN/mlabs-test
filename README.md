@@ -22,7 +22,7 @@ $ cd mlabs-test
 ```
 ### **Iniciando o projeto**
 ```
-#Basta abrir o arquivo index.html em algum navegador e navegar entras as paginas pelo botões.
+#Basta abrir o arquivo index.html em algum navegador e navegar entras as páginas pelos botões.
 ```
 <br>
 
